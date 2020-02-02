@@ -1,0 +1,32 @@
+.header-text{
+    color: aliceblue;
+    text-align: center;
+    float: none;
+    padding: 0px;
+    position: absolute;
+    width: 100%;
+    left: 0;
+    top: 10px;
+}
+
+.car-button {
+    position: absolute;
+    top: 50%;
+    z-index: 1;
+}
+
+.near-moon-gradient {
+    left: 30%;
+}
+
+.purple-gradient {
+    left: 45%;
+}
+
+.blue-gradient {
+    left: 60%;
+}
+
+.rainy-ashville-gradient {
+    left: 75%;
+}
